@@ -27,6 +27,6 @@ In conclusion, it is clear that MDGs had a great impact on life expectancy of mo
 Data Source: http://data.un.org/Search.aspx?q=Life+expectancy+at+birth; 
               Life expectancy at birth for both sexes combined (years)
               
-Disclaimer:  This is a self-designed project. It only serves as suggestion and may contain wrongful outcomes and suggestion.
+Disclaimer:  This is a self-designed project. It only serves as suggestion and may contain wrongful outcomes.
 
 # Check out Code.R for complete process and coding
