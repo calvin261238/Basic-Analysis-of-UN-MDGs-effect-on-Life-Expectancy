@@ -22,7 +22,7 @@ During 1980~2000, some of the countries, particularly countries located in Afric
 However, things started to change after 2000. My assumption is that MDG played some role to the overall improvement of life expectancy. Here are my findings:
 Only Syrian Arab Republic experienced negative growth of life expectancy, primarily due to war. The other countries have improved, especially Rwanda, Botswana, and Zimbabwe.
 
-In conclusion, it is clear that MDGs had great impact on life expectanct of most countries.
+In conclusion, it is clear that MDGs had a great impact on life expectancy of most countries.
 
 Data Source: http://data.un.org/Search.aspx?q=Life+expectancy+at+birth; 
               Life expectancy at birth for both sexes combined (years)
